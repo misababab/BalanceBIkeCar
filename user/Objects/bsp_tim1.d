@@ -1,0 +1,15 @@
+.\objects\bsp_tim1.o: ..\HARDWARE\duoji\bsp_tim1.c
+.\objects\bsp_tim1.o: ..\HARDWARE\duoji\bsp_tim1.h
+.\objects\bsp_tim1.o: ..\user\stm32f10x.h
+.\objects\bsp_tim1.o: ..\CORE\core_cm3.h
+.\objects\bsp_tim1.o: F:\Keil\Keil_MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\bsp_tim1.o: ..\user\system_stm32f10x.h
+.\objects\bsp_tim1.o: ..\user\stm32f10x_conf.h
+.\objects\bsp_tim1.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+.\objects\bsp_tim1.o: ..\user\stm32f10x.h
+.\objects\bsp_tim1.o: ..\STM32_FWLIB\inc\stm32f10x_i2c.h
+.\objects\bsp_tim1.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+.\objects\bsp_tim1.o: ..\STM32_FWLIB\inc\stm32f10x_tim.h
+.\objects\bsp_tim1.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+.\objects\bsp_tim1.o: ..\STM32_FWLIB\inc\misc.h
+.\objects\bsp_tim1.o: ..\SYSTEM\sys\sys.h

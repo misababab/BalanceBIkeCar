@@ -1,0 +1,15 @@
+.\objects\misc.o: ..\STM32_FWLIB\src\misc.c
+.\objects\misc.o: ..\STM32_FWLIB\inc\misc.h
+.\objects\misc.o: ..\user\stm32f10x.h
+.\objects\misc.o: ..\CORE\core_cm3.h
+.\objects\misc.o: D:\soft\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\misc.o: ..\user\system_stm32f10x.h
+.\objects\misc.o: ..\user\stm32f10x_conf.h
+.\objects\misc.o: ..\STM32_FWLIB\inc\stm32f10x_exti.h
+.\objects\misc.o: ..\user\stm32f10x.h
+.\objects\misc.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+.\objects\misc.o: ..\STM32_FWLIB\inc\stm32f10x_i2c.h
+.\objects\misc.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+.\objects\misc.o: ..\STM32_FWLIB\inc\stm32f10x_tim.h
+.\objects\misc.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+.\objects\misc.o: ..\STM32_FWLIB\inc\misc.h

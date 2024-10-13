@@ -1,0 +1,17 @@
+.\objects\mpuiic.o: ..\HARDWARE\MPU6050\mpuiic.c
+.\objects\mpuiic.o: ..\HARDWARE\MPU6050\mpuiic.h
+.\objects\mpuiic.o: ..\SYSTEM\sys\sys.h
+.\objects\mpuiic.o: ..\user\stm32f10x.h
+.\objects\mpuiic.o: ..\CORE\core_cm3.h
+.\objects\mpuiic.o: D:\soft\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\mpuiic.o: ..\user\system_stm32f10x.h
+.\objects\mpuiic.o: ..\user\stm32f10x_conf.h
+.\objects\mpuiic.o: ..\STM32_FWLIB\inc\stm32f10x_exti.h
+.\objects\mpuiic.o: ..\user\stm32f10x.h
+.\objects\mpuiic.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+.\objects\mpuiic.o: ..\STM32_FWLIB\inc\stm32f10x_i2c.h
+.\objects\mpuiic.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+.\objects\mpuiic.o: ..\STM32_FWLIB\inc\stm32f10x_tim.h
+.\objects\mpuiic.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+.\objects\mpuiic.o: ..\STM32_FWLIB\inc\misc.h
+.\objects\mpuiic.o: ..\SYSTEM\delay\delay.h

@@ -1,0 +1,17 @@
+.\objects\usart.o: ..\SYSTEM\usart\usart.c
+.\objects\usart.o: ..\SYSTEM\sys\sys.h
+.\objects\usart.o: ..\user\stm32f10x.h
+.\objects\usart.o: ..\CORE\core_cm3.h
+.\objects\usart.o: D:\soft\Keil5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\usart.o: ..\user\system_stm32f10x.h
+.\objects\usart.o: ..\user\stm32f10x_conf.h
+.\objects\usart.o: ..\STM32_FWLIB\inc\stm32f10x_exti.h
+.\objects\usart.o: ..\user\stm32f10x.h
+.\objects\usart.o: ..\STM32_FWLIB\inc\stm32f10x_gpio.h
+.\objects\usart.o: ..\STM32_FWLIB\inc\stm32f10x_i2c.h
+.\objects\usart.o: ..\STM32_FWLIB\inc\stm32f10x_rcc.h
+.\objects\usart.o: ..\STM32_FWLIB\inc\stm32f10x_tim.h
+.\objects\usart.o: ..\STM32_FWLIB\inc\stm32f10x_usart.h
+.\objects\usart.o: ..\STM32_FWLIB\inc\misc.h
+.\objects\usart.o: ..\SYSTEM\usart\usart.h
+.\objects\usart.o: D:\soft\Keil5\ARM\ARMCC\Bin\..\include\stdio.h
